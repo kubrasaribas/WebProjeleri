@@ -1,14 +1,12 @@
-# Güzellik Dünyası - Kozmetik E-Ticaret Arayüzü
+# Kübra Sarıbaş - Proje Portfolyosu
 
-Bu proje, bir kozmetik markası için tasarlanmış, tek sayfa uygulaması (SPA) mantığında çalışan ön yüz (frontend) çalışmasıdır. 
+Merhaba! Ben Kübra. Bilgisayar Programcılığı mezunuyum. Web geliştirme, robotik ve yazılım alanlarında kendimi geliştiriyorum.
 
-## Özellikler
-- Sayfa geçişleri (Ana Sayfa, Ürünler, Giriş/Kayıt, İletişim) JavaScript ile dinamik olarak sağlanmıştır.
-- Bootstrap 5 ile tamamen responsive (mobil uyumlu) tasarım.
-- Ürün listeleme, ürün detay sayfaları ve form işlemleri (giriş, kayıt, iletişim) simüle edilmiştir.
+Bu depoda, eğitimim ve kişisel gelişimim süresince geliştirdiğim web projeleri ve veritabanı çalışmaları yer almaktadır.
 
-## Kullanılan Teknolojiler
-- HTML5
-- CSS3 (Custom değişkenler, hover efektleri)
-- JavaScript (DOM manipülasyonu, sayfa yönlendirme)
-- Bootstrap 5.3
+## Öne Çıkan Projeler
+- **Kozmetik web sitesi (Güzellik Dünyası):** HTML, CSS ve Bootstrap kullanılarak geliştirilmiş responsive e-ticaret arayüzü.
+- **E-Ticaret Veri Tabanı Çalışması:** SQL tabanlı veritabanı tasarımı ve sorguları.
+
+## İletişim
+- E-posta: kubrasb9@gmail.com
